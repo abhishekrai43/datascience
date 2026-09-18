@@ -266,6 +266,7 @@ Bland-Altman Plot [1](https://pingouin-stats.org/generated/pingouin.plot_blandal
 [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering, [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).  
 [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.  
 [temporian](https://github.com/google/temporian) - Time series feature engineering by Google.  
+[pyhctsa](https://github.com/DynamicsAndNeuralSystems/pyhctsa) - Time series feature engineering.  
 [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.  
 [feature-engine](https://github.com/feature-engine/feature_engine) - Encoders, transformers, etc.  
 
@@ -333,6 +334,7 @@ Additional plots for PCA - Factor Loadings, Cumulative Variance Explained, [Corr
 [prince](https://github.com/MaxHalford/prince) - Dimensionality reduction, factor analysis (PCA, MCA, CA, FAMD).  
 Faster t-SNE implementations: [tsne-cuda](https://github.com/CannyLab/tsne-cuda), [MulticoreTSNE](https://github.com/DmitryUlyanov/Multicore-TSNE), [lvdmaaten](https://lvdmaaten.github.io/tsne/)  
 [umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection, [talk](https://www.youtube.com/watch?v=nq6iPZVUxZU), [explorer](https://github.com/GrantCuster/umap-explorer), [explanation](https://pair-code.github.io/understanding-umap/), [parallel version](https://docs.rapids.ai/api/cuml/stable/api.html).  
+[TorchDR](https://github.com/TorchDR/TorchDR) - GPU and multi-GPU dimensionality reduction with a scikit-learn-compatible API, including UMAP, t-SNE, PACMAP, PHATE, and PCA.  
 [humap](https://github.com/wilsonjr/humap) - Hierarchical UMAP.  
 [sleepwalk](https://github.com/anders-biostat/sleepwalk/) - Explore embeddings, interactive visualization (R package).  
 [somoclu](https://github.com/peterwittek/somoclu) - Self-organizing map.  
@@ -351,6 +353,7 @@ Faster t-SNE implementations: [tsne-cuda](https://github.com/CannyLab/tsne-cuda)
 [linearsdr](https://github.com/HarrisQ/linearsdr) - Linear Sufficient Dimension Reduction (R package).  
 [PHATE](https://github.com/KrishnaswamyLab/PHATE) - Tool for visualizing high dimensional data.  
 [datamapplot](https://github.com/TutteInstitute/datamapplot) - Tool for visualizing high dimensional data.  
+[bonsai](https://github.com/dhdegroot/Bonsai-data-representation/) - Dimension Reduction accurate and interpretable data-representation (scRNA-seq).  
 
 #### Visualization
 [All charts](https://datavizproject.com/)  
